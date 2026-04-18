@@ -1,4 +1,4 @@
-# TCP Auction System 🔨
+# TCP Auction System 
 
 A concurrent client-server distributed application for real-time auctions, built with Python Sockets and containerized using Docker. 
 
